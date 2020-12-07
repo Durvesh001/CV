@@ -1,0 +1,19 @@
+body {
+  Background-color: #ffcef3;
+     }
+hr{
+  background-color: white;
+  border-style: none;
+
+  border-width: 10px;
+  height: 3px;
+
+  }
+  img{
+    height: 250px;
+  }
+
+
+  h1,h3{
+    color: #521262;
+  }
